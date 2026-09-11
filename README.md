@@ -1,4 +1,3 @@
-# Unit1-02-Python-CloneRepo
 ##################################################
 
 # Run Ms Raffin's Super Linter against code base #
